@@ -1,0 +1,10 @@
+D:\Users\yongzi.guo\Desktop\0521\c#\VS_C_sharp\WindowsFormsHelloworld\bin\Debug\WindowsFormsHelloworld.exe.config
+D:\Users\yongzi.guo\Desktop\0521\c#\VS_C_sharp\WindowsFormsHelloworld\bin\Debug\WindowsFormsHelloworld.exe
+D:\Users\yongzi.guo\Desktop\0521\c#\VS_C_sharp\WindowsFormsHelloworld\bin\Debug\WindowsFormsHelloworld.pdb
+D:\Users\yongzi.guo\Desktop\0521\c#\VS_C_sharp\WindowsFormsHelloworld\obj\Debug\WindowsFormsHelloworld.csproj.AssemblyReference.cache
+D:\Users\yongzi.guo\Desktop\0521\c#\VS_C_sharp\WindowsFormsHelloworld\obj\Debug\WindowsFormsHelloworld.Form1.resources
+D:\Users\yongzi.guo\Desktop\0521\c#\VS_C_sharp\WindowsFormsHelloworld\obj\Debug\WindowsFormsHelloworld.Properties.Resources.resources
+D:\Users\yongzi.guo\Desktop\0521\c#\VS_C_sharp\WindowsFormsHelloworld\obj\Debug\WindowsFormsHelloworld.csproj.GenerateResource.cache
+D:\Users\yongzi.guo\Desktop\0521\c#\VS_C_sharp\WindowsFormsHelloworld\obj\Debug\WindowsFormsHelloworld.csproj.CoreCompileInputs.cache
+D:\Users\yongzi.guo\Desktop\0521\c#\VS_C_sharp\WindowsFormsHelloworld\obj\Debug\WindowsFormsHelloworld.exe
+D:\Users\yongzi.guo\Desktop\0521\c#\VS_C_sharp\WindowsFormsHelloworld\obj\Debug\WindowsFormsHelloworld.pdb

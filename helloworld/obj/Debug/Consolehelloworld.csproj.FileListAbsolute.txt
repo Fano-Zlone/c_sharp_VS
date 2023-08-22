@@ -1,0 +1,6 @@
+D:\Users\yongzi.guo\Desktop\0521\c#\VS_C_sharp\helloworld\bin\Debug\helloworld.exe.config
+D:\Users\yongzi.guo\Desktop\0521\c#\VS_C_sharp\helloworld\bin\Debug\helloworld.exe
+D:\Users\yongzi.guo\Desktop\0521\c#\VS_C_sharp\helloworld\bin\Debug\helloworld.pdb
+D:\Users\yongzi.guo\Desktop\0521\c#\VS_C_sharp\helloworld\obj\Debug\Consolehelloworld.csproj.CoreCompileInputs.cache
+D:\Users\yongzi.guo\Desktop\0521\c#\VS_C_sharp\helloworld\obj\Debug\helloworld.exe
+D:\Users\yongzi.guo\Desktop\0521\c#\VS_C_sharp\helloworld\obj\Debug\helloworld.pdb
