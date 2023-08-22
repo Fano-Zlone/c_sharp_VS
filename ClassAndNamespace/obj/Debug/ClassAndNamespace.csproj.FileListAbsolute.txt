@@ -1,0 +1,10 @@
+D:\Users\yongzi.guo\Desktop\0521\c#\c_sharp_VS\ClassAndNamespace\bin\Debug\ClassAndNamespace.exe.config
+D:\Users\yongzi.guo\Desktop\0521\c#\c_sharp_VS\ClassAndNamespace\bin\Debug\ClassAndNamespace.exe
+D:\Users\yongzi.guo\Desktop\0521\c#\c_sharp_VS\ClassAndNamespace\bin\Debug\ClassAndNamespace.pdb
+D:\Users\yongzi.guo\Desktop\0521\c#\c_sharp_VS\ClassAndNamespace\obj\Debug\ClassAndNamespace.csproj.AssemblyReference.cache
+D:\Users\yongzi.guo\Desktop\0521\c#\c_sharp_VS\ClassAndNamespace\obj\Debug\ClassAndNamespace.csproj.CoreCompileInputs.cache
+D:\Users\yongzi.guo\Desktop\0521\c#\c_sharp_VS\ClassAndNamespace\obj\Debug\ClassAndNamespace.exe
+D:\Users\yongzi.guo\Desktop\0521\c#\c_sharp_VS\ClassAndNamespace\obj\Debug\ClassAndNamespace.pdb
+D:\Users\yongzi.guo\Desktop\0521\c#\c_sharp_VS\ClassAndNamespace\bin\Debug\CalculatorClassLib.dll
+D:\Users\yongzi.guo\Desktop\0521\c#\c_sharp_VS\ClassAndNamespace\bin\Debug\CalculatorClassLib.pdb
+D:\Users\yongzi.guo\Desktop\0521\c#\c_sharp_VS\ClassAndNamespace\obj\Debug\ClassAndNamespace.csproj.CopyComplete

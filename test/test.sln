@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleHelloworld", "..\hel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsHelloworld(old)", "..\WindowsFormsHelloworld\WindowsFormsHelloworld(old).csproj", "{EBDB7205-19EF-4D15-BA99-E91B62B89153}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassAndNamespace", "..\ClassAndNamespace\ClassAndNamespace.csproj", "{D4E4D7E7-80CE-4D45-8111-DCE813B32B4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorClassLib", "..\CalculatorClassLib\CalculatorClassLib.csproj", "{693EDB57-847B-46D1-AA47-182F95A2F075}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{EBDB7205-19EF-4D15-BA99-E91B62B89153}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBDB7205-19EF-4D15-BA99-E91B62B89153}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBDB7205-19EF-4D15-BA99-E91B62B89153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4E4D7E7-80CE-4D45-8111-DCE813B32B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E4D7E7-80CE-4D45-8111-DCE813B32B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E4D7E7-80CE-4D45-8111-DCE813B32B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E4D7E7-80CE-4D45-8111-DCE813B32B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{693EDB57-847B-46D1-AA47-182F95A2F075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{693EDB57-847B-46D1-AA47-182F95A2F075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{693EDB57-847B-46D1-AA47-182F95A2F075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{693EDB57-847B-46D1-AA47-182F95A2F075}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

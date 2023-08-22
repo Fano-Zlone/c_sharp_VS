@@ -1,0 +1,6 @@
+D:\Users\yongzi.guo\Desktop\0521\c#\c_sharp_VS\CalculatorClassLib\bin\Debug\CalculatorClassLib.dll
+D:\Users\yongzi.guo\Desktop\0521\c#\c_sharp_VS\CalculatorClassLib\bin\Debug\CalculatorClassLib.pdb
+D:\Users\yongzi.guo\Desktop\0521\c#\c_sharp_VS\CalculatorClassLib\obj\Debug\CalculatorClassLib.csproj.AssemblyReference.cache
+D:\Users\yongzi.guo\Desktop\0521\c#\c_sharp_VS\CalculatorClassLib\obj\Debug\CalculatorClassLib.csproj.CoreCompileInputs.cache
+D:\Users\yongzi.guo\Desktop\0521\c#\c_sharp_VS\CalculatorClassLib\obj\Debug\CalculatorClassLib.dll
+D:\Users\yongzi.guo\Desktop\0521\c#\c_sharp_VS\CalculatorClassLib\obj\Debug\CalculatorClassLib.pdb
